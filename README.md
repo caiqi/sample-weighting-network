@@ -1,5 +1,5 @@
 # Learning a Unified Sample Weighting Network for Object Detection
-This is the implementation of '**Learning a Unified Sample Weighting Network for Object Detection**' [CVPR 2020]. The original paper can be found [here](#).
+This is the implementation of '**Learning a Unified Sample Weighting Network for Object Detection**' [CVPR 2020]. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Learning_a_Unified_Sample_Weighting_Network_for_Object_Detection_CVPR_2020_paper.pdf).
 
 ![framework image](demo/framework.png)
 
