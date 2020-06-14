@@ -42,7 +42,7 @@ d. Train Faster R-CNN/Mask-RCNN/RetinaNet with ResNet-50/ResNet-101 backbones:
 ## Citation
 If you find this code or model useful for your research, please cite our paper:
 
-    @inproceedings{cai2019exploring,
+    @inproceedings{cai2020learning,
       title={Learning a Unified Sample Weighting Network for Object Detection},
       author={Cai, Qi and Pan, Yingwei and Wang, Yu and Liu, Jingen and Yao, Ting and Mei, Tao},
       booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
